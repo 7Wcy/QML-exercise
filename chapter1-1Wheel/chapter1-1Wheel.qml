@@ -1,4 +1,4 @@
-import QtQuick 2.6
+﻿import QtQuick 2.6
 import QtQuick.Window 2.2
 
 Window {
@@ -24,7 +24,7 @@ Window {
             anchors.horizontalCenter: parent.horizontalCenter
 
             id: blur
-            source: "../images/blur.png"
+            source: "../imagesur.png"
             Behavior on rotation {
                 NumberAnimation {
                     duration: 200
