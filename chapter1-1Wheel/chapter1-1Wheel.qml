@@ -27,7 +27,7 @@ Window {
             source: "../imagesur.png"
             Behavior on rotation {
                 NumberAnimation {
-                    duration: 200
+                    duration: 200 //延迟效果
                 }
             }
             TimerEvent{
