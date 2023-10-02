@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b726a5fc34d97d6d22e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter4-1Desktopcontrol",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-47d1311bde2dc7c56028.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-e790fc28a28645357cde.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-2487c5ab0f731393dd01.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-4f32b7d84bd7c735e2e6.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol-Debug-2f50c3819e6e300c0636.json",
+					"name" : "appchapter4-1Desktopcontrol",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_autogen-Debug-2501ce014689c11f34cc.json",
+					"name" : "appchapter4-1Desktopcontrol_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_autogen_timestamp_deps-Debug-1953683f62a833341d2b.json",
+					"name" : "appchapter4-1Desktopcontrol_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_qmlimportscan-Debug-0fcebb62ea6b7491c8e5.json",
+					"name" : "appchapter4-1Desktopcontrol_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_qmllint-Debug-aa2c326d251695b6b5fe.json",
+					"name" : "appchapter4-1Desktopcontrol_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_qmllint_json-Debug-5fd460fe367922aa364c.json",
+					"name" : "appchapter4-1Desktopcontrol_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_qmllint_module-Debug-93177d0d39e34c03f304.json",
+					"name" : "appchapter4-1Desktopcontrol_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_qmltyperegistration-Debug-5bd3241de31030714bbe.json",
+					"name" : "appchapter4-1Desktopcontrol_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-1Desktopcontrol_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-1Desktopcontrol_tooling-Debug-ef7084435df02be0aeb8.json",
+					"name" : "appchapter4-1Desktopcontrol_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-1Desktopcontrol-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug",
+		"source" : "C:/Users/25241/Desktop/Git/QML-exercise/chapter4-1Desktopcontrol"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

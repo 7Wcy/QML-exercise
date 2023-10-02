@@ -396,7 +396,7 @@ build .qt_plugins\Qt6_QmlPlugins_Imports_appchapter4-1Desktopcontrol.cmake | ${c
 #############################################
 # Phony custom command for CMakeFiles\appchapter4-1Desktopcontrol_autogen_timestamp_deps
 
-build CMakeFiles\appchapter4-1Desktopcontrol_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\appchapter4-1Desktopcontrol_autogen_timestamp_deps: phony .rcc\qmlcache\appchapter4-1Desktopcontrol_qmlcache_loader.cpp D$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe D$:\Qt\6.6.0\msvc2019_64\lib\Qt6QuickControls2d.lib D$:\Qt\6.6.0\msvc2019_64\lib\Qt6Quickd.lib D$:\Qt\6.6.0\msvc2019_64\lib\Qt6Qmld.lib
+build CMakeFiles\appchapter4-1Desktopcontrol_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles\appchapter4-1Desktopcontrol_autogen_timestamp_deps: phony .rcc\qmlcache\appchapter4-1Desktopcontrol_qmlcache_loader.cpp D$:\Qt\6.6.0\msvc2019_64\.\bin\moc.exe D$:\Qt\6.6.0\msvc2019_64\lib\Qt6Quickd.lib D$:\Qt\6.6.0\msvc2019_64\lib\Qt6QuickControls2d.lib D$:\Qt\6.6.0\msvc2019_64\lib\Qt6Qmld.lib
 
 
 #############################################

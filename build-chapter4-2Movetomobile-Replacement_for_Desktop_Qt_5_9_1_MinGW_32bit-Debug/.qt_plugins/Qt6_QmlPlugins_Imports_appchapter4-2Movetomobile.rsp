@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/25241/Desktop/Git/QML-exercise/chapter4-2Movetomobile
+-cmake-output
+-output-file
+C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appchapter4-2Movetomobile.cmake
+-importPath
+C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/chapter4-2Movetomobile
+-importPath
+C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug
+-importPath
+D:/Qt/6.6.0/msvc2019_64/./qml
+-qrcFiles
+C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/.rcc/qmake_chapter4-2Movetomobile.qrc
+C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/.rcc/appchapter4-2Movetomobile_raw_qml_0.qrc

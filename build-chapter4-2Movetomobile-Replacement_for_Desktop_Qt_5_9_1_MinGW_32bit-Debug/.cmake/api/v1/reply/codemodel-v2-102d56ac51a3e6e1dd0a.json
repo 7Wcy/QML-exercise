@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b4293092b247e972688.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter4-2Movetomobile",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-eb1a6e396621ac2e65ca.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-38a4ecdb89561f6d4cee.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d880af2d956a2607a6ad.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-34687ce11a44d7a59783.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile-Debug-39af92b99e8f9c03c8d8.json",
+					"name" : "appchapter4-2Movetomobile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_autogen-Debug-90119d244f84a6551852.json",
+					"name" : "appchapter4-2Movetomobile_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_autogen_timestamp_deps-Debug-46a5fc866fdd4f4a1d79.json",
+					"name" : "appchapter4-2Movetomobile_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_qmlimportscan-Debug-e3cfdda6ab50d544dce0.json",
+					"name" : "appchapter4-2Movetomobile_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_qmllint-Debug-546d6d8ec6d69a6c1a89.json",
+					"name" : "appchapter4-2Movetomobile_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_qmllint_json-Debug-f72e4f40b1c495eb0368.json",
+					"name" : "appchapter4-2Movetomobile_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_qmllint_module-Debug-7b894ff0262288609457.json",
+					"name" : "appchapter4-2Movetomobile_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_qmltyperegistration-Debug-0915722c58127474d4e0.json",
+					"name" : "appchapter4-2Movetomobile_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-2Movetomobile_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-2Movetomobile_tooling-Debug-ce354b1abd9615fa46b9.json",
+					"name" : "appchapter4-2Movetomobile_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-2Movetomobile-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug",
+		"source" : "C:/Users/25241/Desktop/Git/QML-exercise/chapter4-2Movetomobile"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
