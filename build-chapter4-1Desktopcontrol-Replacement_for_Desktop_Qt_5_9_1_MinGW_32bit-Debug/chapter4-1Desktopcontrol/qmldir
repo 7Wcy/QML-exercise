@@ -1,0 +1,5 @@
+module chapter4-1Desktopcontrol
+typeinfo appchapter4-1Desktopcontrol.qmltypes
+prefer :/chapter4-1Desktopcontrol/
+Main 1.0 Main.qml
+
