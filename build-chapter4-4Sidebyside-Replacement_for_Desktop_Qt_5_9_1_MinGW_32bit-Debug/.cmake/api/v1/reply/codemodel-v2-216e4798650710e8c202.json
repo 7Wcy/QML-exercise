@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-25fd410b01c4a667cb6c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter4-4Sidebyside",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8281c3631736ee994fcf.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ccc215e9e9dc525ba005.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b8113b6bf8ee17a4b8e6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c9531b8ddd1465f75f5b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside-Debug-1a169f3615605de1d0f5.json",
+					"name" : "appchapter4-4Sidebyside",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_autogen-Debug-12f0cacb2ce313fa10aa.json",
+					"name" : "appchapter4-4Sidebyside_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_autogen_timestamp_deps-Debug-c4be16ba7bae78e4b835.json",
+					"name" : "appchapter4-4Sidebyside_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_qmlimportscan-Debug-2434615fd2ea1c538838.json",
+					"name" : "appchapter4-4Sidebyside_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_qmllint-Debug-d44a3a5ad79cb4309531.json",
+					"name" : "appchapter4-4Sidebyside_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_qmllint_json-Debug-3c83efdcea1d89e92f47.json",
+					"name" : "appchapter4-4Sidebyside_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_qmllint_module-Debug-c038e31068659621fc4c.json",
+					"name" : "appchapter4-4Sidebyside_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_qmltyperegistration-Debug-79a09f96e3536dd84045.json",
+					"name" : "appchapter4-4Sidebyside_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-4Sidebyside_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-4Sidebyside_tooling-Debug-66e5181a587263f4ea54.json",
+					"name" : "appchapter4-4Sidebyside_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-4Sidebyside-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug",
+		"source" : "C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

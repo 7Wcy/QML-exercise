@@ -1,0 +1,9 @@
+module chapter4-4Sidebyside
+typeinfo appchapter4-4Sidebyside.qmltypes
+prefer :/chapter4-4Sidebyside/
+Main 1.0 Main.qml
+Home 1.0 Home.qml
+Profile 1.0 Profile.qml
+About 1.0 About.qml
+EditProfile 1.0 EditProfile.qml
+

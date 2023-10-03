@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/chapter4-4Sidebyside/">
+    <file alias="Main.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside/Main.qml</file>
+    <file alias="Home.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside/Home.qml</file>
+    <file alias="Profile.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside/Profile.qml</file>
+    <file alias="About.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside/About.qml</file>
+    <file alias="EditProfile.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-4Sidebyside/EditProfile.qml</file>
+  </qresource>
+</RCC>
+
