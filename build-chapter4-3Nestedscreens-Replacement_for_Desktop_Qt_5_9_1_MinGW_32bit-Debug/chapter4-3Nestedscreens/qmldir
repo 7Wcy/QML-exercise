@@ -1,0 +1,9 @@
+module chapter4-3Nestedscreens
+typeinfo appchapter4-3Nestedscreens.qmltypes
+prefer :/chapter4-3Nestedscreens/
+Main 1.0 Main.qml
+Home 1.0 Home.qml
+Profile 1.0 Profile.qml
+About 1.0 About.qml
+EditProfile 1.0 EditProfile.qml
+

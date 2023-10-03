@@ -1,0 +1,57 @@
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-3Nestedscreens-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4a11c && [1/2] Building CXX object CMakeFiles\cmTC_4a11c.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_4a11c.dir/src.cxx.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\cl.exe"  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  -DQT_QML_DEBUG /DWIN32 /D_WINDOWS /GR /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_4a11c.dir\src.cxx.obj /FdCMakeFiles\cmTC_4a11c.dir\ /FS -c C:\Users\25241\Desktop\Git\QML-exercise\build-chapter4-3Nestedscreens-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug\CMakeFiles\CMakeTmp\src.cxx
+C:\Users\25241\Desktop\Git\QML-exercise\build-chapter4-3Nestedscreens-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug\CMakeFiles\CMakeTmp\src.cxx(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-3Nestedscreens-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b4dcb && [1/2] Building CXX object CMakeFiles\cmTC_b4dcb.dir\CheckFunctionExists.cxx.obj
+[2/2] Linking CXX executable cmTC_b4dcb.exe
+FAILED: cmTC_b4dcb.exe 
+cmd.exe /C "cd . && D:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b4dcb.dir --rc="D:\Windows Kits\10\bin\10.0.22000.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.22000.0\x64\mt.exe" --manifests  -- "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\Hostx64\x64\link.exe" /nologo CMakeFiles\cmTC_b4dcb.dir\CheckFunctionExists.cxx.obj  /out:cmTC_b4dcb.exe /implib:cmTC_b4dcb.lib /pdb:cmTC_b4dcb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b4dcb.dir\CheckFunctionExists.cxx.obj /out:cmTC_b4dcb.exe /implib:cmTC_b4dcb.lib /pdb:cmTC_b4dcb.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b4dcb.dir/intermediate.manifest CMakeFiles\cmTC_b4dcb.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-3Nestedscreens-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b50e6 && [1/2] Building CXX object CMakeFiles\cmTC_b50e6.dir\CheckFunctionExists.cxx.obj
+[2/2] Linking CXX executable cmTC_b50e6.exe
+FAILED: cmTC_b50e6.exe 
+cmd.exe /C "cd . && D:\Qt\Tools\CMake_64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_b50e6.dir --rc="D:\Windows Kits\10\bin\10.0.22000.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.22000.0\x64\mt.exe" --manifests  -- "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\Hostx64\x64\link.exe" /nologo CMakeFiles\cmTC_b50e6.dir\CheckFunctionExists.cxx.obj  /out:cmTC_b50e6.exe /implib:cmTC_b50e6.lib /pdb:cmTC_b50e6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_b50e6.dir\CheckFunctionExists.cxx.obj /out:cmTC_b50e6.exe /implib:cmTC_b50e6.lib /pdb:cmTC_b50e6.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b50e6.dir/intermediate.manifest CMakeFiles\cmTC_b50e6.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: 无法打开文件“pthread.lib”
+ninja: build stopped: subcommand failed.
+
+
+

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/chapter4-3Nestedscreens/">
+    <file alias="Main.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-3Nestedscreens/Main.qml</file>
+    <file alias="Home.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-3Nestedscreens/Home.qml</file>
+    <file alias="Profile.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-3Nestedscreens/Profile.qml</file>
+    <file alias="About.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-3Nestedscreens/About.qml</file>
+    <file alias="EditProfile.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-3Nestedscreens/EditProfile.qml</file>
+  </qresource>
+</RCC>
+
