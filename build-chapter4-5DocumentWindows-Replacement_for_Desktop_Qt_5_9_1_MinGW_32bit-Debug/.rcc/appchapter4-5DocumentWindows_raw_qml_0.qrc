@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/chapter4-5DocumentWindows/">
+    <file alias="Main.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/Main.qml</file>
+    <file alias="DocumentWindows.qml">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/DocumentWindows.qml</file>
+    <file alias="images/open.png">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/images/open.png</file>
+    <file alias="images/new.png">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/images/new.png</file>
+    <file alias="images/save.png">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/images/save.png</file>
+    <file alias="images/saveas.png">C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows/images/saveas.png</file>
+  </qresource>
+</RCC>
+

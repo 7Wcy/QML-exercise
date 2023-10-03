@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8885002b24210898d29f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chapter4-5DocumentWindows",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8a1a3d4bc292139b96b6.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-de3cbc9e5256e861e4d3.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-bebf051274f3d3f69b42.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9ba93c47db482a004520.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows-Debug-bbb37aee554b7e2f41a5.json",
+					"name" : "appchapter4-5DocumentWindows",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_autogen-Debug-bf063a1a424bb629a057.json",
+					"name" : "appchapter4-5DocumentWindows_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_autogen_timestamp_deps-Debug-183e5201eece383c8076.json",
+					"name" : "appchapter4-5DocumentWindows_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_qmlimportscan-Debug-9a7199b8aeb7b96c8110.json",
+					"name" : "appchapter4-5DocumentWindows_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_qmllint-Debug-ce571265987ff1321f43.json",
+					"name" : "appchapter4-5DocumentWindows_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_qmllint_json-Debug-bf4e4f7a7cac5466512e.json",
+					"name" : "appchapter4-5DocumentWindows_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_qmllint_module-Debug-02c8b564332160e1e90c.json",
+					"name" : "appchapter4-5DocumentWindows_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_qmltyperegistration-Debug-1027556d28cd977cdbd4.json",
+					"name" : "appchapter4-5DocumentWindows_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appchapter4-5DocumentWindows_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appchapter4-5DocumentWindows_tooling-Debug-632392eed3b86e3e15e3.json",
+					"name" : "appchapter4-5DocumentWindows_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/25241/Desktop/Git/QML-exercise/build-chapter4-5DocumentWindows-Replacement_for_Desktop_Qt_5_9_1_MinGW_32bit-Debug",
+		"source" : "C:/Users/25241/Desktop/Git/QML-exercise/chapter4-5DocumentWindows"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

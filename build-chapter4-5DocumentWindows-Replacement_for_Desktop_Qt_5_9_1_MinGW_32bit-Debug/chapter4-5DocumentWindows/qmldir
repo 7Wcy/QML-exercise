@@ -1,0 +1,6 @@
+module chapter4-5DocumentWindows
+typeinfo appchapter4-5DocumentWindows.qmltypes
+prefer :/chapter4-5DocumentWindows/
+Main 1.0 Main.qml
+DocumentWindows 1.0 DocumentWindows.qml
+
